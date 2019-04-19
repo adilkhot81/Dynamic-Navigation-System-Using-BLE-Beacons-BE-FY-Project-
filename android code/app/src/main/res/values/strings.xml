@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Navi</string>
+    <string name="access_token">pk.eyJ1IjoiYWRpbC1raG90IiwiYSI6ImNqbml2cmZuZzB0NmszdnBjZXgzcjNqcHcifQ.jJvT2e9uNGQfj_tObZJ7EQ</string>
+
+    <string-array name="countries">
+        <item>Gents Staff Toilet</item>
+        <item>Ladies Staff Toilet</item>
+        <item>ELECT-LAB-10</item>
+        <item>Elevator</item>
+        <item>LAB-510</item>
+        <item>LAB-508</item>
+        <item>LAB-506</item>
+        <item>LAB-502</item>
+        <item>LAB-507</item>
+        <item>LAB-509</item>
+        <item>LAB-501</item>
+        <item>LAB-503</item>
+        <item>LAB-505</item>
+        <item>LAB-504</item>
+        <item>EXTC Me Tutorial Room</item>
+        <item>IT-LAB-09</item>
+        <item>IT-LAB-08</item>
+        <item>Rest Room</item>
+        <item>lab 1 4th floor</item>
+        <item>girls washroom 4th floor</item>
+        <item>Law classroom 1</item>
+        <item>ladies staff washroom</item>
+        <item>boys water filter 4th floor</item>
+        <item>robocon room</item>
+        <item>classroom 4th yr 4th floor</item>
+        <item>boys side lift 4th floor</item>
+        <item>girls side lift 4th floor</item>
+        <item>law classroom 2</item>
+        <item>classroom 2nd yr 4th floor</item>
+        <item>lab 2 4th floor</item>
+        <item>classroom 3rd yr 4th floor</item>
+        <item>lab 3 4th floor</item>
+        <item>Seminar Hall</item>
+        <item>girls side stairs 4th floor</item>
+        <item>meeting room</item>
+        <item>boy washroom 4th floor</item>
+        <item>gents staff washroom 4th floor</item>
+        <item>server side room</item>
+        <item>server room</item>
+        <item>boys stairs 4th floor</item>
+        <item>girls water filter</item>
+        <item>exam cell 4th floor</item>
+        <item>exam cell print room 4th floor</item>
+    </string-array>
+
+
+</resources>

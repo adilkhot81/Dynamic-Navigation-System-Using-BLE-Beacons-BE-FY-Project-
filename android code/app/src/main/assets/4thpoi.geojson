@@ -1,0 +1,430 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lab 1 4th floor",
+        "description": "lab 1",
+        "poi": "hardware",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991831,
+          19.075933
+        ],
+        "type": "Point"
+      },
+      "id": "0f868cb48da4c11fd7324f93204c1b4c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "girls washroom 4th floor",
+        "description": "girls washroom",
+        "poi": "toilet",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991552,
+          19.07609
+        ],
+        "type": "Point"
+      },
+      "id": "123d68cc9e1b9f9b71cdd710179140ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Law classroom 1",
+        "description": "classroom for law students",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991443,
+          19.075957
+        ],
+        "type": "Point"
+      },
+      "id": "14de30bc0a4c4669ba0cc5a97191880c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ladies staff washroom",
+        "description": "ladies satff washroom 4th floor",
+        "poi": "toilet",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991562,
+          19.076045
+        ],
+        "type": "Point"
+      },
+      "id": "1551c790b49770aa417dfa48889941de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "boys water filter 4th floor",
+        "description": "boys water filter",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991956,
+          19.076014
+        ],
+        "type": "Point"
+      },
+      "id": "19638bc1b9f3d08f6daea7580b43ff80"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "robocon room",
+        "description": "robocon room",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.992033,
+          19.076064
+        ],
+        "type": "Point"
+      },
+      "id": "1b607c8c3c3c3ee2204777923fe8e05b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "classroom 4th yr 4th floor",
+        "description": "classroom 4th yr",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991647,
+          19.076049
+        ],
+        "type": "Point"
+      },
+      "id": "212dab6dd2b3b290f5e0f5b3643916ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "boys side lift 4th floor",
+        "description": "boys side lift",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991934,
+          19.075925
+        ],
+        "type": "Point"
+      },
+      "id": "250b4df0bf51a2881820707e5628a9b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "girls side lift 4th floor",
+        "description": "girls side lift 4th floor",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991534,
+          19.075956
+        ],
+        "type": "Point"
+      },
+      "id": "48e96c1e87f990e530bdb8c9d02fd204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "law classroom 2",
+        "description": "law classroom ",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991568,
+          19.076155
+        ],
+        "type": "Point"
+      },
+      "id": "577cdf686cfb94b1f524cb0fcf6af643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "classroom 2nd yr 4th floor",
+        "description": "classroom 2nd yr",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991843,
+          19.076033
+        ],
+        "type": "Point"
+      },
+      "id": "5d590349823ceba907f17257d2a58594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lab 2 4th floor",
+        "description": "lab 2",
+        "poi": "hardware",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991732,
+          19.07594
+        ],
+        "type": "Point"
+      },
+      "id": "68617158b8196bf0c97c5c8994496b23"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "classroom 3rd yr 4th floor",
+        "description": "classroom 3rd yr",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991739,
+          19.076041
+        ],
+        "type": "Point"
+      },
+      "id": "6c28185e83b64e1d29f3c5a1785147f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lab 3 4th floor",
+        "description": "lab 3",
+        "poi": "hardware",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991635,
+          19.07595
+        ],
+        "type": "Point"
+      },
+      "id": "6cd17ebc8fa5e6d1c3af2f89c384c37f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seminar Hall",
+        "description": "seminar hall to conduct seminars",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991459,
+          19.076126
+        ],
+        "type": "Point"
+      },
+      "id": "6edab03f323347aac0f8e50070ec6b0e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "girls side stairs 4th floor",
+        "description": "girls side stairs",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991569,
+          19.075951
+        ],
+        "type": "Point"
+      },
+      "id": "7376b8b32ea51b4f04cbfdb83c31839a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "meeting room",
+        "description": "room to conduct meeting of computer department",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.99145,
+          19.07604
+        ],
+        "type": "Point"
+      },
+      "id": "7561b206c9c5afe1df0e37cad2ff08f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "boy washroom 4th floor",
+        "description": "boyz washroom",
+        "poi": "toilet",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991942,
+          19.076058
+        ],
+        "type": "Point"
+      },
+      "id": "7cc8a0d6fa7a920f023b17b91875c145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gents staff washroom 4th floor",
+        "description": "gents staff washroom",
+        "poi": "toilet",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991922,
+          19.076019
+        ],
+        "type": "Point"
+      },
+      "id": "89867c2433170900abee00d4b25a3def"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "server side room",
+        "description": "server side room",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.992043,
+          19.075906
+        ],
+        "type": "Point"
+      },
+      "id": "a9c34e400e60aed6f29d3010e3c29ecd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "server room",
+        "description": "server room",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.992003,
+          19.07591
+        ],
+        "type": "Point"
+      },
+      "id": "aa8fec8dd51017401bbb64aba6095bcf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "boys stairs 4th floor",
+        "description": "boys stairs",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991896,
+          19.075929
+        ],
+        "type": "Point"
+      },
+      "id": "b95281748d1cf5ba856b2e5f71107fdf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "girls water filter",
+        "description": "girls filter 4th floor",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991529,
+          19.07605
+        ],
+        "type": "Point"
+      },
+      "id": "c39642d80feeb8b099a12309e6cf69d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "exam cell 4th floor",
+        "description": "exam cell",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.991934,
+          19.076129
+        ],
+        "type": "Point"
+      },
+      "id": "eaf7ade5e2dde250cdd747ffcff4171e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "exam cell print room 4th floor",
+        "description": "exam cell print room",
+        "poi": "restaurant",
+        "selected": false
+      },
+      "geometry": {
+        "coordinates": [
+          72.992047,
+          19.07615
+        ],
+        "type": "Point"
+      },
+      "id": "f6bd2a23f7f2510a502afc0a627d864e"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/ic_send"
+        android:id="@+id/ivLogo"/>
+
+    <com.mapbox.mapboxsdk.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        mapbox:mapbox_cameraZoom="20"
+        />
+
+    <LinearLayout
+        android:id="@+id/floor_level_buttons"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:background="@color/mapboxBlue"
+        android:orientation="vertical"
+        android:layout_alignParentRight="true">
+
+        <Button
+            android:id="@+id/fifth_level_button"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="5"
+            android:textColor="@color/mapboxWhite" />
+
+        <Button
+            android:id="@+id/fourth_level_button"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="?android:attr/selectableItemBackground"
+            android:text="4"
+            android:textColor="@color/mapboxWhite" />
+
+
+    </LinearLayout>
+
+
+
+        <ImageView
+            android:id="@+id/side"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:background="?android:attr/selectableItemBackground"
+            android:src="@mipmap/ic_side"
+            android:text="5"
+            android:textColor="@color/mapboxWhite" />
+
+
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/viewcard"
+
+        android:id="@+id/poicard"
+
+        android:layout_alignBottom="@id/mapView"
+
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="sample"
+            android:textAlignment="center"
+            android:textSize="80px"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="200px"
+            android:id="@+id/description"
+            android:textAlignment="center"
+            android:text="sample des"
+            android:textSize="70px"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="200px"
+            android:orientation="horizontal">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/distance"
+            android:layout_marginLeft="20px"
+android:textColor="@color/mapboxBlue"
+            android:text="distance:"
+            android:textSize="60px"
+            android:textStyle="bold"
+            />
+
+            <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/time"-->
+                <!--android:textColor="@color/colorAccent"-->
+
+                <!--android:layout_marginLeft="30px"-->
+                <!--android:text="ETA:"-->
+                <!--android:textSize="60px"-->
+                <!--android:textStyle="bold"-->
+                <!--/>-->
+
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="200px"-->
+            <!--android:id="@+id/head"-->
+            <!--android:textAlignment="center"-->
+            <!--android:text="head"-->
+            <!--android:textSize="60px"-->
+            <!--android:textStyle="bold"-->
+            <!--/>-->
+        <!--<ImageView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="200px"-->
+        <!--android:id="@+id/arrow"-->
+        <!--android:src="@mipmap/ic_arrow"-->
+        <!--android:textAlignment="center"-->
+        <!--android:text="head"-->
+        <!--android:textSize="60px"-->
+        <!--android:textStyle="bold"-->
+        <!--/>-->
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15px"
+
+
+            android:id="@+id/arrow"
+            android:src="@mipmap/ic_arrow"
+
+            android:text="head"
+            android:textSize="60px"
+            android:textStyle="bold"
+            />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/poinavigatebutton"
+            android:background="@drawable/navibutton"
+            android:layout_marginLeft="20px"
+            android:layout_marginRight="20px"
+            android:layout_marginBottom="12px"
+
+            android:textColor="@android:color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Start Navigation" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

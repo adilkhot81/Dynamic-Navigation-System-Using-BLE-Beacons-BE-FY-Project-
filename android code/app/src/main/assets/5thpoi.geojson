@@ -1,0 +1,396 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Staff Toilet",
+        "description": "Gents Staff Toilet",
+        "poi": "toilet",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991922,
+          19.076015
+        ],
+        "type": "Point"
+      },
+      "id": "06cd4165b9797825afbfbee94e56e7dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Staff Toilet",
+        "description": "Ladies Staff Toilet",
+        "poi": "toilet",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991562,
+          19.076046
+        ],
+        "type": "Point"
+      },
+      "id": "1b8741faf5d4a437b2d81b9ca3fa9130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ELECT-LAB-10",
+        "description": "ELECT-LAB-10",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.992033,
+          19.076025
+        ],
+        "type": "Point"
+      },
+      "id": "393b134b8e8f07792ce55be9f7309faa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elevator",
+        "description": "Elevator Girls",
+        "poi": "lift",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991533,
+          19.075956
+        ],
+        "type": "Point"
+      },
+      "id": "3b1dc355f8e2f94091a76e3dc9a333c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-510",
+        "description": "EXTC LAB 10",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991832,
+          19.07593
+        ],
+        "type": "Point"
+      },
+      "id": "3da5ab7630452b7d00c0697cd2760429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rest Room",
+        "description": "Boys Wash Room",
+        "poi": "toilet",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991939,
+          19.07606
+        ],
+        "type": "Point"
+      },
+      "id": "439ba7e1c8dc6ecd8c47b61cb0b8bc6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rest Room",
+        "description": "Girls Wash Room",
+        "poi": "toilet",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.99155,
+          19.076092
+        ],
+        "type": "Point"
+      },
+      "id": "51973a6e2db008c08316ebf492f899e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Filter",
+        "description": "Girls Water Filter",
+        "poi": "filter",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991528,
+          19.076049
+        ],
+        "type": "Point"
+      },
+      "id": "56b2ecba517b7adf306435a71b83c008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-508",
+        "description": "EXTC LAB 08",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991637,
+          19.075948
+        ],
+        "type": "Point"
+      },
+      "id": "6592dd6b550c9318f222a17fc732665f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Filter",
+        "description": "Gents Water Filter",
+        "poi": "filter",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991955,
+          19.076015
+        ],
+        "type": "Point"
+      },
+      "id": "6f25e2bf18dd94bbcecbd93ff3caa17f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-506",
+        "description": "IT LAB 06",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991743,
+          19.076047
+        ],
+        "type": "Point"
+      },
+      "id": "8afbaff2fe2f72eb1798d52dd3528793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-502",
+        "description": "IT LAB 02",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.99146,
+          19.076166
+        ],
+        "type": "Point"
+      },
+      "id": "8ea88ac6b524b490c94808d46bcd440f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EXTC ME Tutorial Room",
+        "description": "Tutorial Room",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991934,
+          19.07615
+        ],
+        "type": "Point"
+      },
+      "id": "8f157b5635c21391ef07c36bd0953749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-507",
+        "description": "IT LAB 07",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991845,
+          19.076038
+        ],
+        "type": "Point"
+      },
+      "id": "9bdcb5adf0667429f9a9f6ec52c9613d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-509",
+        "description": "EXTC LAB 09",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991735,
+          19.075938
+        ],
+        "type": "Point"
+      },
+      "id": "a83610c0acc16111d5c2ef4c2005c676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-501",
+        "description": "IT LAB 01",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991569,
+          19.076157
+        ],
+        "type": "Point"
+      },
+      "id": "ae7bb714cb10bfd44116be164904572a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IT-LAB-09",
+        "description": "IT-LAB-09",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.992024,
+          19.075909
+        ],
+        "type": "Point"
+      },
+      "id": "c4f4b01b4a698012c42ee384e170cd16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-503",
+        "description": "IT LAB 03",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991453,
+          19.076074
+        ],
+        "type": "Point"
+      },
+      "id": "c8f7d756afbb40e2c042e89c93902134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-504",
+        "description": "IT LAB 04",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991443,
+          19.075956
+        ],
+        "type": "Point"
+      },
+      "id": "cd1909e16f9604b5b312b1552e637578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EXTC Me Tutorial Room",
+        "description": "Tutorial Room",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991932,
+          19.076106
+        ],
+        "type": "Point"
+      },
+      "id": "e9374ffeb4319c9babfc5540c584fad1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-505",
+        "description": "IT LAB 05",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991647,
+          19.076055
+        ],
+        "type": "Point"
+      },
+      "id": "efe0dbe0f40c81290d4bcfed44a531b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elevator",
+        "description": "Elevator Boys",
+        "poi": "lift",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991933,
+          19.075923
+        ],
+        "type": "Point"
+      },
+      "id": "f13ff933be8ba07711317d12fab926ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IT-LAB-08",
+        "description": "IT-LAB-08",
+        "poi": "lab",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.99204,
+          19.076119
+        ],
+        "type": "Point"
+      },
+      "id": "f61193e5a863c3f85767181acdf2a5f0"
+    }
+  ],
+  "type": "FeatureCollection"
+}

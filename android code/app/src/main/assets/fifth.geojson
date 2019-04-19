@@ -1,0 +1,2420 @@
+{
+  "features": [
+  	{
+      "type": "Feature",
+      "properties": {
+        "name": "Staff Toilet",
+        "description": "Gents Staff Toilet",
+        "poi": "toilet",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991922,
+          19.076015
+        ],
+        "type": "Point"
+      },
+      "id": "06cd4165b9797825afbfbee94e56e7dd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Staff Toilet",
+        "description": "Ladies Staff Toilet",
+        "poi": "toilet",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991562,
+          19.076046
+        ],
+        "type": "Point"
+      },
+      "id": "1b8741faf5d4a437b2d81b9ca3fa9130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ELECT-LAB-10",
+        "description": "ELECT-LAB-10",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.992033,
+          19.076025
+        ],
+        "type": "Point"
+      },
+      "id": "393b134b8e8f07792ce55be9f7309faa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elevator",
+        "description": "Elevator Girls",
+        "poi": "landmark",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991533,
+          19.075956
+        ],
+        "type": "Point"
+      },
+      "id": "3b1dc355f8e2f94091a76e3dc9a333c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-510",
+        "description": "EXTC LAB 10",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991832,
+          19.07593
+        ],
+        "type": "Point"
+      },
+      "id": "3da5ab7630452b7d00c0697cd2760429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rest Room",
+        "description": "Boys Wash Room",
+        "poi": "toilet",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991939,
+          19.07606
+        ],
+        "type": "Point"
+      },
+      "id": "439ba7e1c8dc6ecd8c47b61cb0b8bc6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rest Room",
+        "description": "Girls Wash Room",
+        "poi": "toilet",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.99155,
+          19.076092
+        ],
+        "type": "Point"
+      },
+      "id": "51973a6e2db008c08316ebf492f899e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Filter",
+        "description": "Girls Water Filter",
+        "poi": "drinking-water",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991528,
+          19.076049
+        ],
+        "type": "Point"
+      },
+      "id": "56b2ecba517b7adf306435a71b83c008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-508",
+        "description": "EXTC LAB 08",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991637,
+          19.075948
+        ],
+        "type": "Point"
+      },
+      "id": "6592dd6b550c9318f222a17fc732665f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Filter",
+        "description": "Gents Water Filter",
+        "poi": "drinking-water",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991955,
+          19.076015
+        ],
+        "type": "Point"
+      },
+      "id": "6f25e2bf18dd94bbcecbd93ff3caa17f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-506",
+        "description": "IT LAB 06",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991743,
+          19.076047
+        ],
+        "type": "Point"
+      },
+      "id": "8afbaff2fe2f72eb1798d52dd3528793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-502",
+        "description": "IT LAB 02",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.99146,
+          19.076166
+        ],
+        "type": "Point"
+      },
+      "id": "8ea88ac6b524b490c94808d46bcd440f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EXTC ME Tutorial Room",
+        "description": "Tutorial Room",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991934,
+          19.07615
+        ],
+        "type": "Point"
+      },
+      "id": "8f157b5635c21391ef07c36bd0953749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-507",
+        "description": "IT LAB 07",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991845,
+          19.076038
+        ],
+        "type": "Point"
+      },
+      "id": "9bdcb5adf0667429f9a9f6ec52c9613d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-509",
+        "description": "EXTC LAB 09",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991735,
+          19.075938
+        ],
+        "type": "Point"
+      },
+      "id": "a83610c0acc16111d5c2ef4c2005c676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-501",
+        "description": "IT LAB 01",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991569,
+          19.076157
+        ],
+        "type": "Point"
+      },
+      "id": "ae7bb714cb10bfd44116be164904572a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IT-LAB-09",
+        "description": "IT-LAB-09",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.992024,
+          19.075909
+        ],
+        "type": "Point"
+      },
+      "id": "c4f4b01b4a698012c42ee384e170cd16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-503",
+        "description": "IT LAB 03",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991453,
+          19.076074
+        ],
+        "type": "Point"
+      },
+      "id": "c8f7d756afbb40e2c042e89c93902134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-504",
+        "description": "IT LAB 04",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991443,
+          19.075956
+        ],
+        "type": "Point"
+      },
+      "id": "cd1909e16f9604b5b312b1552e637578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EXTC Me Tutorial Room",
+        "description": "Tutorial Room",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991932,
+          19.076106
+        ],
+        "type": "Point"
+      },
+      "id": "e9374ffeb4319c9babfc5540c584fad1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LAB-505",
+        "description": "IT LAB 05",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991647,
+          19.076055
+        ],
+        "type": "Point"
+      },
+      "id": "efe0dbe0f40c81290d4bcfed44a531b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elevator",
+        "description": "Elevator Boys",
+        "poi": "landmark",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991933,
+          19.075923
+        ],
+        "type": "Point"
+      },
+      "id": "f13ff933be8ba07711317d12fab926ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IT-LAB-08",
+        "description": "IT-LAB-08",
+        "poi": "hardware",
+        "selected": "false"
+      },
+      "geometry": {
+        "coordinates": [
+          72.99204,
+          19.076119
+        ],
+        "type": "Point"
+      },
+      "id": "f61193e5a863c3f85767181acdf2a5f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            72.991548,
+            19.075917
+          ],
+          [
+            72.991587,
+            19.075914
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "0019cef691a1b0acd7c7083dd4f9b860"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991963,
+              19.076021
+            ],
+            [
+              72.991965,
+              19.076021
+            ],
+            [
+              72.991962,
+              19.075989
+            ],
+            [
+              72.99196,
+              19.075989
+            ],
+            [
+              72.991963,
+              19.076021
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "04d9b6119421f26ac1628a69a7e4b305"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991921,
+              19.075964
+            ],
+            [
+              72.991924,
+              19.075963
+            ],
+            [
+              72.991916,
+              19.075884
+            ],
+            [
+              72.991914,
+              19.075883
+            ],
+            [
+              72.991921,
+              19.075964
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "0fbc8fc1782a719c292e2c44dc34577e"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991552,
+              19.075993
+            ],
+            [
+              72.991545,
+              19.075913
+            ],
+            [
+              72.991547,
+              19.075913
+            ],
+            [
+              72.991554,
+              19.075993
+            ],
+            [
+              72.991552,
+              19.075993
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "135c80e7834a760cd7d5e945bbd9742d"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991924,
+              19.075963
+            ],
+            [
+              72.99195,
+              19.075961
+            ],
+            [
+              72.99195,
+              19.075959
+            ],
+            [
+              72.991924,
+              19.075961
+            ],
+            [
+              72.991924,
+              19.075963
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "1408a33f00acd726489eaf5e1c9e1029"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.99152,
+              19.076024
+            ],
+            [
+              72.99152,
+              19.076023
+            ],
+            [
+              72.991962,
+              19.075987
+            ],
+            [
+              72.991962,
+              19.075988
+            ],
+            [
+              72.99152,
+              19.076024
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "1581d934280f4cd748d395eb0bc8801a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nodes__floor": "4"
+      },
+      "geometry": {
+        "coordinates": [
+          72.99209,
+          19.076161
+        ],
+        "type": "Point"
+      },
+      "id": "1ab1a917d6b933a07ced493b2faffa81"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991922,
+              19.075939
+            ],
+            [
+              72.991949,
+              19.075937
+            ],
+            [
+              72.991949,
+              19.075935
+            ],
+            [
+              72.991921,
+              19.075937
+            ],
+            [
+              72.991922,
+              19.075939
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "243c0a31c86b4f92fbc29a4368c9954e"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991951,
+              19.076022
+            ],
+            [
+              72.991962,
+              19.076021
+            ],
+            [
+              72.991961,
+              19.076009
+            ],
+            [
+              72.99195,
+              19.076009
+            ],
+            [
+              72.991951,
+              19.076022
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "26ca610d7ea5ba9ccd0caddec0ee44c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991931,
+              19.075999
+            ],
+            [
+              72.991931,
+              19.075997
+            ],
+            [
+              72.991948,
+              19.075996
+            ],
+            [
+              72.991948,
+              19.075998
+            ],
+            [
+              72.991931,
+              19.075999
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "27b9d723b87a155f716c02a21a1ea179"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.99152,
+              19.075948
+            ],
+            [
+              72.991519,
+              19.075945
+            ],
+            [
+              72.991548,
+              19.075943
+            ],
+            [
+              72.991547,
+              19.075945
+            ],
+            [
+              72.99152,
+              19.075948
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "287e98df17fdb0946d947e79628cfc52"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            72.991411,
+            19.076005
+          ],
+          [
+            72.991414,
+            19.076031
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "294f2060c845b353367757f29a5540bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991913,
+              19.076023
+            ],
+            [
+              72.991933,
+              19.076022
+            ],
+            [
+              72.991932,
+              19.076011
+            ],
+            [
+              72.991912,
+              19.076012
+            ],
+            [
+              72.991913,
+              19.076023
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "2a8aec152663bb685d5afc9c08e36802"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            72.991977,
+            19.076164
+          ],
+          [
+            72.992005,
+            19.076162
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "2ab102cc6ddb4158426e13a40c20f9c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            72.991481,
+            19.075927
+          ],
+          [
+            72.991515,
+            19.075924
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "2ad61ee743ec6cefc0a0117cb967ea46"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991604,
+              19.076089
+            ],
+            [
+              72.991697,
+              19.076082
+            ],
+            [
+              72.991691,
+              19.076011
+            ],
+            [
+              72.991598,
+              19.076018
+            ],
+            [
+              72.991604,
+              19.076089
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "360b5e3244eb29b29873a113039f28ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991521,
+              19.076057
+            ],
+            [
+              72.991523,
+              19.076057
+            ],
+            [
+              72.99152,
+              19.076023
+            ],
+            [
+              72.991518,
+              19.076023
+            ],
+            [
+              72.991521,
+              19.076057
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "3b6a0b24bf428e137be4a2a4d54e50cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991897,
+              19.076129
+            ],
+            [
+              72.991971,
+              19.076123
+            ],
+            [
+              72.991968,
+              19.076079
+            ],
+            [
+              72.991893,
+              19.076085
+            ],
+            [
+              72.991897,
+              19.076129
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "3e492cd8161a63da02a1f3ed2ebbd3c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991534,
+              19.07603
+            ],
+            [
+              72.991534,
+              19.076029
+            ],
+            [
+              72.991551,
+              19.076028
+            ],
+            [
+              72.991551,
+              19.07603
+            ],
+            [
+              72.991534,
+              19.07603
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "3f87537e7a6fb41b86c73a1239e6c891"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            72.991504,
+            19.076202
+          ],
+          [
+            72.991534,
+            19.0762
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "470bbb43adb3ea0099ff9b7214dc00d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991568,
+              19.075992
+            ],
+            [
+              72.991592,
+              19.07599
+            ],
+            [
+              72.991592,
+              19.075988
+            ],
+            [
+              72.991568,
+              19.07599
+            ],
+            [
+              72.991568,
+              19.075992
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "49195ca836c5e74cdd2dee9a750d598c"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.99195,
+              19.075943
+            ],
+            [
+              72.991952,
+              19.075943
+            ],
+            [
+              72.991951,
+              19.075929
+            ],
+            [
+              72.991949,
+              19.075929
+            ],
+            [
+              72.99195,
+              19.075943
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "4990deac0072f13e30818844639df600"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991882,
+              19.075967
+            ],
+            [
+              72.991908,
+              19.075965
+            ],
+            [
+              72.991908,
+              19.075963
+            ],
+            [
+              72.991882,
+              19.075965
+            ],
+            [
+              72.991882,
+              19.075967
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "4c233aa63bc31cfac09e7614640a3830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nodes__floor": "4"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991421,
+          19.076215
+        ],
+        "type": "Point"
+      },
+      "id": "4ce9469245d6bb8735e601d1f14a83f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.99195,
+              19.076009
+            ],
+            [
+              72.991961,
+              19.076008
+            ],
+            [
+              72.991961,
+              19.076007
+            ],
+            [
+              72.99195,
+              19.076008
+            ],
+            [
+              72.99195,
+              19.076009
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "534754919da602b2ed091d384c7d556d"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991917,
+              19.075885
+            ],
+            [
+              72.991945,
+              19.075883
+            ],
+            [
+              72.991945,
+              19.075881
+            ],
+            [
+              72.991916,
+              19.075883
+            ],
+            [
+              72.991917,
+              19.075885
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "54648e90b336bc8832b1709f3068be3e"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.99152,
+              19.075978
+            ],
+            [
+              72.991522,
+              19.075977
+            ],
+            [
+              72.991521,
+              19.075963
+            ],
+            [
+              72.991519,
+              19.075964
+            ],
+            [
+              72.99152,
+              19.075978
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "568efdcf44cea0f27cd805ffe144f1fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991786,
+              19.075973
+            ],
+            [
+              72.991881,
+              19.075965
+            ],
+            [
+              72.991874,
+              19.075894
+            ],
+            [
+              72.99178,
+              19.075902
+            ],
+            [
+              72.991786,
+              19.075973
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "590cd51e518704b38e64f4a5ac8d99a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991515,
+              19.075917
+            ],
+            [
+              72.991545,
+              19.075915
+            ],
+            [
+              72.991545,
+              19.075914
+            ],
+            [
+              72.991514,
+              19.075916
+            ],
+            [
+              72.991515,
+              19.075917
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "61fe17724c2d4b8c3c6a003afd32ce80"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            72.991948,
+            19.075889
+          ],
+          [
+            72.991981,
+            19.075886
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "64093a99b3a5bee71c3884ff9aa0063f"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.99143,
+              19.076212
+            ],
+            [
+              72.991504,
+              19.076206
+            ],
+            [
+              72.991496,
+              19.076117
+            ],
+            [
+              72.991422,
+              19.076123
+            ],
+            [
+              72.99143,
+              19.076212
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "644ef263f2a2291e308153b4a404888e"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991951,
+              19.075961
+            ],
+            [
+              72.99195,
+              19.075953
+            ],
+            [
+              72.991953,
+              19.075953
+            ],
+            [
+              72.991954,
+              19.075961
+            ],
+            [
+              72.991951,
+              19.075961
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "64782898ab0f169d66da9bd55e9e57bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991795,
+              19.076074
+            ],
+            [
+              72.99189,
+              19.076066
+            ],
+            [
+              72.991883,
+              19.075996
+            ],
+            [
+              72.991789,
+              19.076003
+            ],
+            [
+              72.991795,
+              19.076074
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "653840a9419858f9115ceeb12c340ed2"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991999,
+              19.076075
+            ],
+            [
+              72.992075,
+              19.076069
+            ],
+            [
+              72.992066,
+              19.075979
+            ],
+            [
+              72.991991,
+              19.075986
+            ],
+            [
+              72.991999,
+              19.076075
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "682c4e3687a2c9a6203b6edf51423615"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991699,
+              19.076081
+            ],
+            [
+              72.991793,
+              19.076073
+            ],
+            [
+              72.991787,
+              19.076003
+            ],
+            [
+              72.991692,
+              19.076011
+            ],
+            [
+              72.991699,
+              19.076081
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "6951298e749b3dc7ae96e85474ad412b"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991422,
+              19.076122
+            ],
+            [
+              72.991496,
+              19.076116
+            ],
+            [
+              72.991488,
+              19.076026
+            ],
+            [
+              72.991414,
+              19.076033
+            ],
+            [
+              72.991422,
+              19.076122
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "6ac43233225aaf26f5f3e15e82f38ac0"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991538,
+              19.076056
+            ],
+            [
+              72.991543,
+              19.076056
+            ],
+            [
+              72.991543,
+              19.076054
+            ],
+            [
+              72.991538,
+              19.076054
+            ],
+            [
+              72.991538,
+              19.076056
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "6f24ebd95d3a2d17c429d8e0a4202639"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991553,
+              19.076053
+            ],
+            [
+              72.991573,
+              19.076052
+            ],
+            [
+              72.991572,
+              19.07604
+            ],
+            [
+              72.991552,
+              19.076042
+            ],
+            [
+              72.991553,
+              19.076053
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "7081a04f213bb5529e4c3cd60f4cb72d"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991536,
+              19.076204
+            ],
+            [
+              72.991611,
+              19.076197
+            ],
+            [
+              72.991603,
+              19.076109
+            ],
+            [
+              72.991528,
+              19.076115
+            ],
+            [
+              72.991536,
+              19.076204
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "75ba00bbb8ecddfd45a2fccdd9c65703"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991522,
+              19.075972
+            ],
+            [
+              72.991522,
+              19.075969
+            ],
+            [
+              72.99155,
+              19.075967
+            ],
+            [
+              72.99155,
+              19.075969
+            ],
+            [
+              72.991522,
+              19.075972
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "77aa3b0af817f4cb0d3eac7b2b011b42"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991521,
+              19.075993
+            ],
+            [
+              72.991523,
+              19.075993
+            ],
+            [
+              72.991523,
+              19.075988
+            ],
+            [
+              72.991521,
+              19.075988
+            ],
+            [
+              72.991521,
+              19.075993
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "7ec04dd9c805b001a09b019bdafe2462"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991516,
+              19.07594
+            ],
+            [
+              72.991519,
+              19.07594
+            ],
+            [
+              72.991519,
+              19.075953
+            ],
+            [
+              72.991517,
+              19.075953
+            ],
+            [
+              72.991516,
+              19.07594
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "80a0a721fbf216614a9fa37d6bb56313"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991945,
+              19.075894
+            ],
+            [
+              72.991948,
+              19.075894
+            ],
+            [
+              72.991947,
+              19.075881
+            ],
+            [
+              72.991945,
+              19.075881
+            ],
+            [
+              72.991945,
+              19.075894
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "81f057d157652b9f438f906858f0d89f"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            72.992067,
+            19.075978
+          ],
+          [
+            72.992065,
+            19.075952
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "93256db556dba139745cd928eefbb98d"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991947,
+              19.075919
+            ],
+            [
+              72.99195,
+              19.075918
+            ],
+            [
+              72.991949,
+              19.075905
+            ],
+            [
+              72.991947,
+              19.075905
+            ],
+            [
+              72.991947,
+              19.075919
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "95e4d54dffc1a81ace2189c56a001206"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991515,
+              19.075929
+            ],
+            [
+              72.991518,
+              19.075929
+            ],
+            [
+              72.991517,
+              19.075917
+            ],
+            [
+              72.991515,
+              19.075918
+            ],
+            [
+              72.991515,
+              19.075929
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "a756644edfaf059a271f18d02c2f41af"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991555,
+              19.07607
+            ],
+            [
+              72.991574,
+              19.076068
+            ],
+            [
+              72.991573,
+              19.076053
+            ],
+            [
+              72.991553,
+              19.076054
+            ],
+            [
+              72.991555,
+              19.07607
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "ab8a047ccea3c2e3d8d16ab86d51f827"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991595,
+              19.075988
+            ],
+            [
+              72.991688,
+              19.075981
+            ],
+            [
+              72.991681,
+              19.075909
+            ],
+            [
+              72.991588,
+              19.075917
+            ],
+            [
+              72.991595,
+              19.075988
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "ae6c307477a9cff112f7bbcddd538ad9"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991943,
+              19.076023
+            ],
+            [
+              72.99195,
+              19.076023
+            ],
+            [
+              72.99195,
+              19.076021
+            ],
+            [
+              72.991943,
+              19.076021
+            ],
+            [
+              72.991943,
+              19.076023
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "af2e6426c41e2042420b2e1f79213330"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991411,
+              19.076003
+            ],
+            [
+              72.991486,
+              19.075997
+            ],
+            [
+              72.991478,
+              19.075908
+            ],
+            [
+              72.991403,
+              19.075914
+            ],
+            [
+              72.991411,
+              19.076003
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "b07b4435f4e657015bab5803b5cfd575"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991528,
+              19.076113
+            ],
+            [
+              72.991578,
+              19.076109
+            ],
+            [
+              72.991574,
+              19.07607
+            ],
+            [
+              72.991524,
+              19.076073
+            ],
+            [
+              72.991528,
+              19.076113
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "ba44a924fb16140f11a81f3e65c8d001"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991552,
+              19.07604
+            ],
+            [
+              72.991572,
+              19.076039
+            ],
+            [
+              72.991571,
+              19.076028
+            ],
+            [
+              72.991551,
+              19.07603
+            ],
+            [
+              72.991552,
+              19.07604
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "bf23c6cef3cd72b1d938816be2c04f5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991988,
+              19.075956
+            ],
+            [
+              72.992065,
+              19.07595
+            ],
+            [
+              72.992057,
+              19.075861
+            ],
+            [
+              72.99198,
+              19.075868
+            ],
+            [
+              72.991988,
+              19.075956
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "c7c6e7dd4aeb96dcdf61ef5e2ce99a6c"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991912,
+              19.076011
+            ],
+            [
+              72.991932,
+              19.076009
+            ],
+            [
+              72.991931,
+              19.075999
+            ],
+            [
+              72.991911,
+              19.076
+            ],
+            [
+              72.991912,
+              19.076011
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "c7e92b44445af5bdecc74707d2e624dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991536,
+              19.076056
+            ],
+            [
+              72.991538,
+              19.076056
+            ],
+            [
+              72.991535,
+              19.076031
+            ],
+            [
+              72.991534,
+              19.076031
+            ],
+            [
+              72.991536,
+              19.076056
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "ce6cfbbde0c3d854b4ae509ce5cf184a"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991949,
+              19.076021
+            ],
+            [
+              72.991946,
+              19.075998
+            ],
+            [
+              72.991948,
+              19.075998
+            ],
+            [
+              72.99195,
+              19.076021
+            ],
+            [
+              72.991949,
+              19.076021
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "d3eb535a7b0cf0a9fc0ed3e0568ee5ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.99169,
+              19.07598
+            ],
+            [
+              72.991785,
+              19.075973
+            ],
+            [
+              72.991779,
+              19.075902
+            ],
+            [
+              72.991683,
+              19.075909
+            ],
+            [
+              72.99169,
+              19.07598
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "d9b0a717b658bf26ca5bb2ac569692ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991522,
+              19.076044
+            ],
+            [
+              72.991534,
+              19.076043
+            ],
+            [
+              72.991534,
+              19.076042
+            ],
+            [
+              72.991522,
+              19.076042
+            ],
+            [
+              72.991522,
+              19.076044
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "dd054993ec076171ea0f3fbc8cf516b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991901,
+              19.076174
+            ],
+            [
+              72.991976,
+              19.076168
+            ],
+            [
+              72.991971,
+              19.076124
+            ],
+            [
+              72.991897,
+              19.07613
+            ],
+            [
+              72.991901,
+              19.076174
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "e29764b2ca63ba2168a9d67d69842032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nodes__floor": "4"
+      },
+      "geometry": {
+        "coordinates": [
+          72.991394,
+          19.075908
+        ],
+        "type": "Point"
+      },
+      "id": "e68168a69991e041cf1c55be678375db"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.992007,
+              19.076165
+            ],
+            [
+              72.992083,
+              19.076159
+            ],
+            [
+              72.992075,
+              19.07607
+            ],
+            [
+              72.991999,
+              19.076076
+            ],
+            [
+              72.992007,
+              19.076165
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "ea1c67143fce6b3fc5312c53e2c2d4f2"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991593,
+              19.07599
+            ],
+            [
+              72.991593,
+              19.075988
+            ],
+            [
+              72.991881,
+              19.075965
+            ],
+            [
+              72.991881,
+              19.075967
+            ],
+            [
+              72.991593,
+              19.07599
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "eac41b60360ec75d089c6afbe437a1d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991523,
+              19.076056
+            ],
+            [
+              72.991536,
+              19.076055
+            ],
+            [
+              72.991535,
+              19.076044
+            ],
+            [
+              72.991522,
+              19.076045
+            ],
+            [
+              72.991523,
+              19.076056
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "eb6ef4d0875d4e7c652cb56709d63247"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991915,
+              19.07604
+            ],
+            [
+              72.991935,
+              19.076039
+            ],
+            [
+              72.991933,
+              19.076024
+            ],
+            [
+              72.991913,
+              19.076025
+            ],
+            [
+              72.991915,
+              19.07604
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "f1626882d2fe723192ade925c2aefbee"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991521,
+              19.075995
+            ],
+            [
+              72.991552,
+              19.075993
+            ],
+            [
+              72.991551,
+              19.075991
+            ],
+            [
+              72.991521,
+              19.075993
+            ],
+            [
+              72.991521,
+              19.075995
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "f2743f804e0a31ff6d6734656ff25388"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.99192,
+              19.075915
+            ],
+            [
+              72.991919,
+              19.075913
+            ],
+            [
+              72.991947,
+              19.075911
+            ],
+            [
+              72.991947,
+              19.075913
+            ],
+            [
+              72.99192,
+              19.075915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "f276b2ed32333d594e3acf122361a5dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            72.991914,
+            19.075887
+          ],
+          [
+            72.991875,
+            19.07589
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "f7d76ba129348c97db6c268a57bdc504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nodes__floor": "4"
+      },
+      "geometry": {
+        "coordinates": [
+          72.992063,
+          19.075853
+        ],
+        "type": "Point"
+      },
+      "id": "f8509e75670ea7f74b155b07bcfe5203"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.991919,
+              19.076082
+            ],
+            [
+              72.991968,
+              19.076077
+            ],
+            [
+              72.991964,
+              19.076038
+            ],
+            [
+              72.991915,
+              19.076042
+            ],
+            [
+              72.991919,
+              19.076082
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "fd11039a16245d347b00f9db68ee1043"
+    }
+  ],
+  "type": "FeatureCollection"
+}

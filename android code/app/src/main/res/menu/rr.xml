@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="hod"
+        android:orderInCategory="100"
+
+        android:id="@+id/hod"/>
+
+    <item android:title="toilet"
+        android:orderInCategory="100"
+
+        android:id="@+id/toilet"/>
+    <item android:title="clear"
+        android:orderInCategory="100"
+
+        android:id="@+id/clear"/>
+    <item android:title="chat"
+        android:orderInCategory="100"
+
+        android:id="@+id/chat"/>
+
+</menu>
