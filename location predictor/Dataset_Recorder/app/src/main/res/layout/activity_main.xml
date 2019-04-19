@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30sp"
+    android:orientation="vertical"
+    tools:context="com.example.gloria.dataset_recorder.MainActivity">
+
+
+    <Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Predict Current Location"
+    android:id="@+id/button"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60sp"
+        android:id="@+id/xValue"
+        android:layout_below="@id/button"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/yValue"
+        android:layout_marginTop="30sp"
+        android:layout_below="@+id/xValue"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/zValue"
+        android:layout_marginTop="30sp"
+        android:layout_below="@+id/yValue"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:id="@+id/textView"
+        android:layout_below="@id/zValue"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:id="@+id/latitude"
+        android:layout_below="@id/textView"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20sp"
+        android:id="@+id/longitude"
+        android:layout_below="@id/latitude"
+        android:layout_centerHorizontal="true"/>
+
+
+</RelativeLayout>
+
+
+

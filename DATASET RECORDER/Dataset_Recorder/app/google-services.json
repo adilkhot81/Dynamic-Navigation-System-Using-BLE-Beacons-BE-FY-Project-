@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "459153879463",
+    "firebase_url": "https://visit21-4d633.firebaseio.com",
+    "project_id": "visit21-4d633",
+    "storage_bucket": "visit21-4d633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459153879463:android:11d4514667f789f8",
+        "android_client_info": {
+          "package_name": "com.example.gloria.dataset_recorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459153879463-f5s2i0bgeegpigdqsjn8utjfadm866lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gloria.dataset_recorder",
+            "certificate_hash": "c49ab55d351f1334e53c5f03a272b90f9278e866"
+          }
+        },
+        {
+          "client_id": "459153879463-5fei7ue5hpcu57hrdgbl2fha9lhttub4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDajqBy8ZLudaGqnEPj7kof4zhtk5nmB8U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459153879463-5fei7ue5hpcu57hrdgbl2fha9lhttub4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

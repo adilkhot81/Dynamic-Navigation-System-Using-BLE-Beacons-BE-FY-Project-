@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d9ff27dc66740f190bf91f7fa38a3459\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\04b91e39219bc8cefbad347ed26a91d6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\760af044e04494313144e3adc383d39e\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ee9bedb236b8f09d644d53e90624e61e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7c9e7347849fce22e73156b945d3a4fc\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\a2f2e5f92bf65ed7e477ed873313e457\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\24d5c76fd97d959a8d072c2c5bcdb34e\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8667fec31b305ecaaff5996be84cd0ac\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\8bd5917503a9fdbba5a753af9ff89c3d\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\582deae322c4b3475a89e0c1491b51b6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\356527ac4ddbd251e72ffa5d1e1b7cb2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f60fbeca2449383451dcd5cdedb9b50b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\38e51644c7521b9caee475f4f5e96679\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\95333ec5de7bf3da45134f219f007ec2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0870301bc18fa4104201ec4b17b4828a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4592af820775080833ade4eea526eb84\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dcc7cb6a5f832e91eecdf3f381e05858\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\a2f2e5f92bf65ed7e477ed873313e457\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\a2f2e5f92bf65ed7e477ed873313e457\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d9ff27dc66740f190bf91f7fa38a3459\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d9ff27dc66740f190bf91f7fa38a3459\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\04b91e39219bc8cefbad347ed26a91d6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\04b91e39219bc8cefbad347ed26a91d6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ee9bedb236b8f09d644d53e90624e61e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ee9bedb236b8f09d644d53e90624e61e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7c9e7347849fce22e73156b945d3a4fc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7c9e7347849fce22e73156b945d3a4fc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\24d5c76fd97d959a8d072c2c5bcdb34e\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\24d5c76fd97d959a8d072c2c5bcdb34e\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8667fec31b305ecaaff5996be84cd0ac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8667fec31b305ecaaff5996be84cd0ac\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\582deae322c4b3475a89e0c1491b51b6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\582deae322c4b3475a89e0c1491b51b6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\356527ac4ddbd251e72ffa5d1e1b7cb2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\356527ac4ddbd251e72ffa5d1e1b7cb2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f60fbeca2449383451dcd5cdedb9b50b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f60fbeca2449383451dcd5cdedb9b50b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\38e51644c7521b9caee475f4f5e96679\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\38e51644c7521b9caee475f4f5e96679\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\95333ec5de7bf3da45134f219f007ec2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\95333ec5de7bf3da45134f219f007ec2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0870301bc18fa4104201ec4b17b4828a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0870301bc18fa4104201ec4b17b4828a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4592af820775080833ade4eea526eb84\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4592af820775080833ade4eea526eb84\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dcc7cb6a5f832e91eecdf3f381e05858\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dcc7cb6a5f832e91eecdf3f381e05858\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.gloria.dataset_recorder.MainActivity
+ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d9ff27dc66740f190bf91f7fa38a3459\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d9ff27dc66740f190bf91f7fa38a3459\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\04b91e39219bc8cefbad347ed26a91d6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\04b91e39219bc8cefbad347ed26a91d6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\760af044e04494313144e3adc383d39e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\760af044e04494313144e3adc383d39e\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ee9bedb236b8f09d644d53e90624e61e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ee9bedb236b8f09d644d53e90624e61e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7c9e7347849fce22e73156b945d3a4fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7c9e7347849fce22e73156b945d3a4fc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\a2f2e5f92bf65ed7e477ed873313e457\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\a2f2e5f92bf65ed7e477ed873313e457\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\24d5c76fd97d959a8d072c2c5bcdb34e\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\24d5c76fd97d959a8d072c2c5bcdb34e\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8667fec31b305ecaaff5996be84cd0ac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\8667fec31b305ecaaff5996be84cd0ac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\8bd5917503a9fdbba5a753af9ff89c3d\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\8bd5917503a9fdbba5a753af9ff89c3d\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\582deae322c4b3475a89e0c1491b51b6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\582deae322c4b3475a89e0c1491b51b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\356527ac4ddbd251e72ffa5d1e1b7cb2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\356527ac4ddbd251e72ffa5d1e1b7cb2\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f60fbeca2449383451dcd5cdedb9b50b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f60fbeca2449383451dcd5cdedb9b50b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\38e51644c7521b9caee475f4f5e96679\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\38e51644c7521b9caee475f4f5e96679\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\95333ec5de7bf3da45134f219f007ec2\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\95333ec5de7bf3da45134f219f007ec2\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0870301bc18fa4104201ec4b17b4828a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0870301bc18fa4104201ec4b17b4828a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4592af820775080833ade4eea526eb84\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4592af820775080833ade4eea526eb84\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dcc7cb6a5f832e91eecdf3f381e05858\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dcc7cb6a5f832e91eecdf3f381e05858\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d9ff27dc66740f190bf91f7fa38a3459\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+		ADDED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\D-Desktop\Dataset_Recorder-20190225T111843Z-001\Dataset_Recorder\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d9ff27dc66740f190bf91f7fa38a3459\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ee9bedb236b8f09d644d53e90624e61e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\ee9bedb236b8f09d644d53e90624e61e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7c9e7347849fce22e73156b945d3a4fc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7c9e7347849fce22e73156b945d3a4fc\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\356527ac4ddbd251e72ffa5d1e1b7cb2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\356527ac4ddbd251e72ffa5d1e1b7cb2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f60fbeca2449383451dcd5cdedb9b50b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f60fbeca2449383451dcd5cdedb9b50b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\38e51644c7521b9caee475f4f5e96679\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\38e51644c7521b9caee475f4f5e96679\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\95333ec5de7bf3da45134f219f007ec2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\95333ec5de7bf3da45134f219f007ec2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0870301bc18fa4104201ec4b17b4828a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\0870301bc18fa4104201ec4b17b4828a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4592af820775080833ade4eea526eb84\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\4592af820775080833ade4eea526eb84\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d9ff27dc66740f190bf91f7fa38a3459\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\d9ff27dc66740f190bf91f7fa38a3459\AndroidManifest.xml:27:13-51
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\24d5c76fd97d959a8d072c2c5bcdb34e\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\24d5c76fd97d959a8d072c2c5bcdb34e\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\24d5c76fd97d959a8d072c2c5bcdb34e\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\24d5c76fd97d959a8d072c2c5bcdb34e\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\24d5c76fd97d959a8d072c2c5bcdb34e\AndroidManifest.xml:10:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\582deae322c4b3475a89e0c1491b51b6\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\582deae322c4b3475a89e0c1491b51b6\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\582deae322c4b3475a89e0c1491b51b6\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dcc7cb6a5f832e91eecdf3f381e05858\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dcc7cb6a5f832e91eecdf3f381e05858\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Mohd. Adil\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\dcc7cb6a5f832e91eecdf3f381e05858\AndroidManifest.xml:26:13-58
